@@ -20,6 +20,7 @@ I am likely learning these languages as you are reading this
 
 ### How to contact me
 If you wish to send a quick message, 
+
 | Contact Type                     | Information                      |
 |----------------------------------|----------------------------------|
 | Business Number                  | (540) 339-6239                   |
