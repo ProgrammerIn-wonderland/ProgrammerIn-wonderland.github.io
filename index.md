@@ -19,7 +19,8 @@ I am likely learning these languages as you are reading this
 - C (I know it but not very well)
 
 ### How to contact me
-If you wish to send a quick message, 
+If you wish to send a quick message,
+
 
 | Contact Type                     | Information                      |
 |----------------------------------|----------------------------------|
