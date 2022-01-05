@@ -25,7 +25,7 @@ If you wish to send a quick message,
 | Contact Type                     | Information                      |
 |----------------------------------|----------------------------------|
 | Business Number                  | (540) 339-6239                   |
-| Discord                          | MeltingAilce#8396                |
+| Discord                          | MeltingAlice#8396                |
 | Matrix                           | @aliceindystopia:fairydust.space |
 | Business Email                   | alice@alicesworld.tech           |
 
