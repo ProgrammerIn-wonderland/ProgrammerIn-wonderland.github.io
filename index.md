@@ -62,9 +62,3 @@ llllllllllllll  lllllllllllllllllll   Terminal: konsole
                                                               
                                                               
 ```
-
-<style>
-#downloads {
-  display: none 
-}
-</style>
