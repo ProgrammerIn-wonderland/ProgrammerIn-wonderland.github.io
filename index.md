@@ -1,5 +1,7 @@
 # Welcome to Alice's World!
 
+|| [Main](/) || [Hire me](/hireme.html) ||
+
 Well I must ask, how did you end up here? If you are interested in me, then you must be in the right place!
 
 ### About Me
