@@ -35,7 +35,7 @@ If you wish to send a quick message,
   * the specs of my laptop are as follows
   * 64 gigs of ram 
   * 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80 ghz
-  * Intel Iris Xe Grpahics
+  * Intel Iris Xe Graphics
 * This is my neofetch
 
 ```
