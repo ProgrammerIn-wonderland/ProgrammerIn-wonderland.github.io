@@ -11,7 +11,7 @@ you can contact me by using the following services
 |Email    | alice@alicesworld.tech           |
 |Discord  | @MeltingAlice#8396               |
 |Matrix   | @aliceindystopia:fairydust.space |
-|SMS      | (540) 339-6239                   |
+|SMS      | +1 (540) 339-6239                |
 
 Prices-
 **These prices are not final, just estimates, final price will be decided based on the amount of work required**
