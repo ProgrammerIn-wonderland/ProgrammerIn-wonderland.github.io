@@ -9,8 +9,8 @@ you can contact me by using the following services
 | Service | Handle                           |
 |---------|----------------------------------|
 |Email    | alice@alicesworld.tech           |
-|Discord  | @MeltingAlice#8396               |
-|Matrix   | @aliceindystopia:fairydust.space |
+|Discord  | Rafflesia#8396                   |
+|Matrix   | aliceindystopia:fairydust.space  |
 |SMS      | +1 (540) 339-6239                |
 
 Prices-
