@@ -3,8 +3,8 @@
 Well I must ask, how did you end up here? If you are interested in me, then you must be in the right place!
 
 ### About Me
-Hello my name is Alice Addison, I am a girl who goes by she/her <br>
-I am a 16 year old who is into backend programming <br>
+Hello my online alias is Alice Addison <br>
+I am a 17 year old who is into backend programming <br>
 I currently know the following programming languages 
 - C
 - C++
