@@ -4,7 +4,7 @@ Well I must ask, how did you end up here? If you are interested in me, then you 
 
 ### About Me
 Hello my online alias is Alice Addison <br>
-I'm just a man (yes, confusing) thats into backend programming <br>
+I'm just a person thats into backend programming <br>
 I currently know the following programming languages 
 - C
 - C++
