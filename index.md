@@ -16,7 +16,6 @@ I currently know the following programming languages
 
 I am likely learning these languages as you are reading this
 - Rust
-- C (I know it but not very well)
 
 ### How to contact me
 If you wish to send a quick message,
@@ -30,7 +29,7 @@ If you wish to send a quick message,
 | Business Email                   | alice@alicesworld.tech           |
 
 ### Some cool facts about me
-* I'm looking to go into the software field when I'm older
+* I used to work in telecom projects 
 * I use a Framework Laptop running Arch btw
   * the specs of my laptop are as follows
   * 64 gigs of ram 
